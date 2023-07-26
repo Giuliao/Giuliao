@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Giuliao
-
-- 🔭 A passionate frontend developer from Hangzhou, China
+### Hi there 👋
 - 📫 Reach me: **wangguang16@outlook.com**
 - ⚡ Fun fact: busy...lazy...
 
