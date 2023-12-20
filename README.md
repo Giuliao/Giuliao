@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 📫 Reach me: **wangguang16@outlook.com**
 - ⚡ Fun fact: busy...lazy...
 
 
