@@ -6,7 +6,7 @@
 👍 &nbsp;I'm good at using tech stack of React to build websites.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Meta Web Framework.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at wangguang16@outlook.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at wangguang16@outlook.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,6 +26,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=giuliao&show_icons=true&bg_color=00000000" height="180em" alt="giuliao's stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=giuliao&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" height="180em" alt="giuliao's stats" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giuliao&layout=compact&bg_color=00000000" alt="Giuliao' s Lang" height="180em" />
 </div>
