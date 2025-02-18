@@ -25,7 +25,7 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=giuliao&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" height="180em" alt="giuliao's stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giuliao&layout=compact&bg_color=00000000" alt="Giuliao' s Lang" height="180em" />
-</div>
+
+![giuliao's stats](https://github-readme-stats.vercel.app/api?username=giuliao&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+
+![giuliao's Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliao&langs_count=8&theme=transparent)
